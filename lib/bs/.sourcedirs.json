@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" ] , "pkgs" : [ [ "@rescript/core" , "/Users/marcosoliveira/projects/vmcp/rescript-vite-template/node_modules/@rescript/core" ] , [ "@rescript/react" , "/Users/marcosoliveira/projects/vmcp/rescript-vite-template/node_modules/@rescript/react" ] ] , "generated" : [] }
